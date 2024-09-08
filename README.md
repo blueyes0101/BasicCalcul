@@ -13,7 +13,7 @@ Dieses Projekt ist eine einfache Taschenrechner-App, die ich für die Android-Pl
 
 1. Klone dieses Projekt auf deinen lokalen Rechner:
    ```bash
-   git clone https://github.com/benutzername/taschenrechner.git
+   git clone https://github.com/blueyes0101/BasicCalcul
    ```
 2. Öffne das Projekt in Android Studio.
 3. Starte die App auf einem Emulator oder einem verbundenen Android-Gerät.
